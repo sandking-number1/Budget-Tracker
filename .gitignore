@@ -63,3 +63,5 @@ client/.env.production.local
 
 # Mac system files
 *.DS_Store
+
+config/
